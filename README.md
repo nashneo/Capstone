@@ -1,5 +1,5 @@
-## Cardiotocography 
- # Detecting Fetal Heart Condition using Machine Learning Techniques
+ # Cardiotocography 
+## Detecting Fetal Heart Condition using Machine Learning Techniques
 
 ## Introduction
 
